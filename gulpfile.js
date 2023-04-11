@@ -10,7 +10,7 @@ import rename from 'gulp-rename';
 import autoPrefixer from 'gulp-autoprefixer';
 import webpack from 'webpack-stream';
 
-let project_folder = "dist";
+let project_folder = "docs";
 let source_folder = "#src";
 
 let path = {
